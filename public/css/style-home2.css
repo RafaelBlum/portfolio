@@ -1,0 +1,123 @@
+.bg-home{
+    padding: 15px 0 0 0;
+    background-color: rgba(65, 141, 200, 0.3);
+}
+.nav-bg{
+    background-color: rgba(100, 90, 200, 0.3);
+}
+
+.user-img{
+    border: 4px solid rgba(200, 150, 90, 0.6);
+    padding: 5px;
+    z-index: 0;
+    position: absolute;
+    transition: 1s;
+}
+
+.user-bg{
+    width: 100%;
+    z-index: 1;
+}
+
+.shadow{
+    box-shadow: 2px 2px 15px rgba(123, 156, 254, 0.52);
+}
+
+.user-img:hover{
+    border: 4px solid rgba(5, 200, 50, 0.6);
+    padding: 10px;
+    box-shadow: 2px 2px 15px rgba(123, 156, 254, 0.52);
+    transition: all ease 0.2s;
+}
+
+svg{
+    box-shadow: rgba(65, 141, 200, 0.3);
+    fill: rgba(65, 141, 200, 0.3);
+}
+
+/*- ESTILOS DO RODAPÉ
+
+footer{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+footer p:nth-child(1){
+    font-size: 30px;
+    color: #191919;
+    line-height: 10px;
+}
+
+footer p:nth-child(2){
+    font-size: 16px;
+    color: #7e7d7d;
+    width: 600px;
+    text-align: center;
+}
+
+.social-icons a{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e6e3e3;
+    margin: 20px 10px;
+    border-radius: 50%;
+}
+
+.social-icons{
+    display: flex;
+}
+
+.copy{
+    color: #565555;
+    font-family: Calibri;
+    position: absolute;
+    left: 50%;
+    bottom: 10px;
+    transform: translateX(-50%);
+}
+
+.social-icons i{
+    color: #000000;
+}
+
+.social-icons a:hover, .a-social-bar a:hover{
+    background-color: #000000;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    transition: all ease 0.5s;
+}
+
+.social-icons a:hover i, .a-social-bar a:hover i{
+    color: #ffffff;
+    transition: all ease 0.5s;
+}
+.a-social-bar{
+    position: fixed;
+    top: 50%;
+    right: 0px;
+    transform: translateY(-50%);
+}
+
+.a-social-bar a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    padding: 0px;
+    margin: 0px;
+    line-height: 0px;
+    background-color: #ffffff;
+    border: 1px solid #cbcbcb;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+}
+.a-social-bar i{
+    color: #2b2b2b;
+    font-size: 20px;
+}-**********/
