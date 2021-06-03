@@ -10,7 +10,7 @@
 ## Meu PortFolio
 
 Porjeto portfolio é um sistema de gerenciamento das experiencias e qualificações do profissional.
-
+<img src="layout.jpg">
 - [Layout moderno](#).
 - [Framework Bootstrap](#).
 - [PHP](#).
@@ -18,8 +18,6 @@ Porjeto portfolio é um sistema de gerenciamento das experiencias e qualificaç�
 - [HTML](#).
 - [CSS](#).
 - [JAVASCRIPT](#).
-
-<img src="layout.jpg" width="200" height="200">
 
 ## Learning Laravel
 
