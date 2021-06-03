@@ -19,7 +19,7 @@ Porjeto portfolio é um sistema de gerenciamento das experiencias e qualificaç�
 - [CSS](#).
 - [JAVASCRIPT](#).
 
-<img href="layout.jpg" width="200" height="200">
+<img src="layout.jpg" width="200" height="200">
 
 ## Learning Laravel
 
